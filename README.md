@@ -8,3 +8,9 @@ $ git clone https://github.com/fourquet/meteor-package-proto.git packageName
 $ cd packageName
 $ rm -rf .git
 ```
+
+#### Version
+0.0.1
+
+#### License
+MIT
